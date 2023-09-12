@@ -12,8 +12,10 @@ root.render(
     <Abcd></Abcd>
     <Xyz></Xyz>
     <Contactus/>
+    <Comp1/>
     <Myclasscop/>
   </React.StrictMode>
+
 );
 
 
